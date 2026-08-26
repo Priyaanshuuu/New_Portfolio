@@ -1,13 +1,13 @@
 export const education = [
   {
-    school: "IPS Academy Indore",
-    degree: "Bachelor of Technology · Computer Software Engineering",
+    school: "Lakshmi Narain College of Technology (LNCT), Bhopal",
+    degree: "Bachelor of Technology · Computer Science & Engineering",
     period: "2022—2026",
   },
   {
-    school: "Kendriya Vidyalaya",
-    degree: "Mathematics & Science",
-    period: "2008—2021",
+    school: "Patna Central School, Patna",
+    degree: "Senior Secondary · Science",
+    period: "2019—2021",
   },
 ];
 
@@ -16,10 +16,16 @@ export const skills = [
   "TypeScript",
   "React",
   "Next.js",
+  "Node.js",
+  "Express.js",
   "FastAPI",
   "Machine Learning",
   "RAG",
   "LLMs",
+  "PostgreSQL",
+  "Prisma",
+  "MongoDB",
   "IoT",
   "Docker",
+  "AWS",
 ];

@@ -12,16 +12,27 @@ export type ExperienceItem = {
 
 export const experience: ExperienceItem[] = [
   {
-    company: "Valency Energy",
-    role: "AI/ML Intern",
-    periodShort: "Jun 25 – Aug 25",
-    periodLong: "June 2025 – August 2025",
-    locationShort: "Remote, IN",
-    locationLong: "Remote, India ",
+    company: "Cybersense IT Services",
+    role: "Full-stack Engineer Intern",
+    periodShort: "Apr 25 – Jun 26",
+    periodLong: "April 2025 – June 2026",
+    locationShort: "Remote, USA",
+    locationLong: "Remote, USA",
     details: [
-      "Developed and optimized machine learning models for renewable energy demand forecasting using Python with real-time IoT data.",
-      "Built automated data pipelines and performed feature engineering to enhance analytics accuracy and system performance.",
+      "Shipped end-to-end full-stack features across a microservices-oriented stack using ReactJS, Next.js, and Python, collaborating directly with founders and product leads from design through cloud deployment on AWS.",
+      "Designed and maintained scalable Python-backed REST APIs following a security-first approach, implementing JWT authentication, input validation, and rate limiting; integrated LLM-driven components that improved automated data processing throughput by ~35%.",
+      "Owned features end-to-end — from solution design and distributed API architecture to frontend delivery — implementing real-time WebSocket features, automated test suites, and performance optimizations including code-splitting and lazy loading.",
     ],
-    tech: ["Python", "Machine Learning", "IoT", "Data Pipelines", "Feature Engineering"],
+    tech: [
+      "ReactJS",
+      "Next.js",
+      "Python",
+      "AWS",
+      "REST APIs",
+      "JWT",
+      "LLMs",
+      "WebSockets",
+      "Microservices",
+    ],
   },
 ];
