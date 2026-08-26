@@ -1,10 +1,10 @@
 export const siteConfig = {
-  name: "Priyanshu Urmaliya",
-  title: "Priyanshu Urmaliya | Software Engineer & AI Developer",
+  name: "Priyanshu Sinha",
+  title: "Priyanshu Sinha | Software Engineer & AI Developer",
   description:
-    "Portfolio of Priyanshu Urmaliya. Building AI tools, full-stack applications, open-source projects, and developer products.",
-  url: "https://www.upriyanshu.tech",
-  githubUsername: "GitHpriyanshu23",
+    "Portfolio of Priyanshu Sinha. Building AI tools, full-stack applications, open-source projects, and developer products.",
+  url: "https://www.priyanshusinha.tech",
+  githubUsername: "priyaanshuuu",
   twitterHandle: "@imdevPU23",
   ogImage: "/assets/og-image.jpg",
   ogImageWidth: 1024,

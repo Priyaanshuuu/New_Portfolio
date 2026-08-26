@@ -14,85 +14,110 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    slug: "ragkno",
-    title: "RAGKNO",
-    date: "05.2026",
+    slug: "Nexus",
+    title: "Nexus",
+    date: "2026",
     description:
-      "A production-grade RAG system with semantic reranking, hybrid retrieval, multi-source ingestion, and source-cited answers.",
-    tech: ["FastAPI", "FAISS", "Google Generative AI", "Python"],
-    href: "https://github.com/GitHpriyanshu23/Ragkno",
+      "AI collaborative workspace with real-time multi-user editing, distributed synchronization, AI-assisted content generation, and role-based access control.",
+    tech: [
+      "Next.js",
+      "TypeScript",
+      "ReactJS",
+      "Yjs",
+      "Liveblocks",
+      "Gemini API",
+      "PostgreSQL",
+    ],
+    href: "YOUR_GITHUB_URL",
     featured: true,
-    cover: "/assets/projects/Ragkno.png",
-    gradient: "from-blue-500/25 via-indigo-500/15 to-violet-500/25",
+    gradient:
+      "from-blue-500/25 via-indigo-500/15 to-violet-500/25",
   },
- 
+
   {
-    slug: "smart-plant-doctor",
-    title: "Smart Plant Doctor",
-    date: "06.2026",
+    slug: "knowt",
+    title: "Knowt",
+    date: "2026",
     description:
-      "AI + IoT plant health platform with real-time ESP32 sensor data and MobileNetV2 disease detection.",
-    tech: ["Python", "Streamlit", "ESP32", "MobileNetV2"],
-    href: "https://github.com/GitHpriyanshu23/Smart-Plant-Doctor",
+      "Multi-modal AI study companion for processing PDFs, videos, audio, and web content with LLM-powered summaries, Q&A, and RAG.",
+    tech: [
+      "Next.js",
+      "ReactJS",
+      "TypeScript",
+      "FastAPI",
+      "Groq",
+      "OpenAI",
+      "PostgreSQL",
+      "MongoDB",
+    ],
+    href: "YOUR_GITHUB_URL",
     featured: true,
-    cover: "/assets/projects/smart-plant-doctor.png",
-    gradient: "from-emerald-500/25 via-green-500/15 to-lime-500/25",
+    gradient:
+      "from-emerald-500/25 via-green-500/15 to-teal-500/25",
   },
+
   {
-    slug: "buildlog",
-    title: "BuildLog",
-    date: "05.2026",
-    description: "Your builder journey in one card — commits, projects, streak, and build-in-public posts.",
-    tech: ["TypeScript", "Next.js", "GitHub API"],
-    href: "https://github.com/GitHpriyanshu23/Buildlog",
-    website: "https://rural-caftan175.runable.site/",
-    cover: "/assets/projects/build-log.png",
-    gradient: "from-orange-500/20 via-amber-500/15 to-yellow-500/20",
-  },
-  {
-    slug: "Scrum",
-    title: "Scrum",
-    date: "05.2026",
+    slug: "reels-pro",
+    title: "Reels Pro",
+    date: "2026",
     description:
-      "A task and Kanban app with timeline views to plan, track, and manage your daily work.",
-    tech: ["TypeScript", "React"],
-    href: "https://github.com/GitHpriyanshu23/Scrum",
-    website: "https://scrum-daily.vercel.app/",
-    cover: "/assets/projects/scrum.png",
-    gradient: "from-sky-500/20 via-cyan-500/15 to-blue-500/20",
-  },
-  {
-    slug: "frame-drop",
-    title: "FrameDrop",
-    date: "04.2026",
-    description:
-      "A screenshot beautifier for polishing screen captures and recordings with custom frames, backgrounds, and glass effects.",
-    tech: ["JavaScript", "CSS", "HTML"],
-    href: "https://github.com/GitHpriyanshu23/Frame-Drop",
-    website: "https://frame-drop-23.vercel.app/",
-    cover: "/assets/projects/frame-drop.png",
-    gradient: "from-lime-500/20 via-green-500/15 to-emerald-500/20",
-  },
-  {
-    slug: "cyber-aegis",
-    title: "Cyber Aegis",
-    date: "04.2026",
-    description: "Security-focused platform for monitoring and protection workflows.",
-    tech: ["TypeScript", "Next.js"],
-    href: "https://github.com/GitHpriyanshu23/Cyber-Aegis",
-    cover: "/assets/projects/cyber-aegis.png",
-    gradient: "from-red-500/20 via-rose-500/15 to-pink-500/20",
-  },
-  {
-    slug: "agentic-ai-memory",
-    title: "Agentic AI Memory",
-    date: "06.2026",
-    description:
-      "Memory infrastructure for agentic AI workflows with persistent context and smarter multi-step reasoning.",
-    tech: ["Python", "LLMs", "Agents"],
-    href: "https://github.com/GitHpriyanshu23/Agentic-AI-Memory",
+      "High-performance video platform built with Next.js 15, featuring cloud-based CDN delivery, engagement analytics, nested comments, and optimized video playback.",
+    tech: [
+      "Next.js 15",
+      "ReactJS",
+      "TypeScript",
+      "MongoDB",
+      "ImageKit",
+    ],
+    href: "https://github.com/Priyaanshuuu/ReelsPro.git",
     featured: true,
-    cover: "/assets/projects/agentic-ai.png",
-    gradient: "from-violet-500/25 via-purple-500/15 to-fuchsia-500/25",
-  }
+    gradient:
+      "from-pink-500/25 via-rose-500/15 to-orange-500/25",
+  },
+
+  {
+    slug: "livekit-ai-agent",
+    title: "LiveKit AI Voice Agent",
+    date: "2026",
+    description:
+      "AI-powered voice agent built with LiveKit for real-time conversations, RAG-based responses, intent classification, call summaries, and automated follow-ups.",
+    tech: [
+      "LiveKit",
+      "TypeScript",
+      "Next.js",
+      "LLMs",
+      "RAG",
+      "PostgreSQL",
+      "Prisma",
+      "WhatsApp",
+    ],
+    href: "YOUR_GITHUB_URL",
+    featured: true,
+    gradient:
+      "from-violet-500/25 via-purple-500/15 to-fuchsia-500/25",
+  },
+
+  {
+    slug: "ecommerce-mcp-server",
+    title: "E-commerce MCP Server",
+    date: "2026",
+    description:
+      "Model Context Protocol server for an e-commerce platform, exposing structured tools and resources that allow AI agents to interact with core commerce workflows.",
+    tech: [
+      "TypeScript",
+      "MCP",
+      "Node.js",
+      "Prisma",
+      "SQLite",
+      "REST APIs",
+    ],
+    href: "YOUR_GITHUB_URL",
+    featured: true,
+    gradient:
+      "from-cyan-500/25 via-sky-500/15 to-blue-500/25",
+  },
 ];
+
+export function getProject(slug: string) {
+  return projects.find((item) => item.slug === slug);
+}
