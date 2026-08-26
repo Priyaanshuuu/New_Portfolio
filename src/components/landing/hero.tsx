@@ -8,7 +8,6 @@ import {
   FileText,
   GithubLogo,
   LinkedinLogo,
-  MediumLogo,
   XLogo,
 } from "@phosphor-icons/react";
 import { ProfileAvatar } from "@/components/profile-avatar";
@@ -23,7 +22,6 @@ const iconMap = {
   x: XLogo,
   linkedin: LinkedinLogo,
   github: GithubLogo,
-  medium: MediumLogo,
   mail: EnvelopeSimple,
   resume: FileText,
 };

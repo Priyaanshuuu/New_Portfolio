@@ -25,11 +25,6 @@ export const socialLinks = [
     icon: "github" as const,
   },
   {
-    name: "Medium",
-    href: "https://medium.com/@priyanshuurmaliya2003",
-    icon: "medium" as const,
-  },
-  {
     name: "Mail",
     href: "mailto:priyanshusinha636@gmail.com",
     icon: "mail" as const,
