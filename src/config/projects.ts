@@ -28,7 +28,9 @@ export const projects: Project[] = [
       "Gemini API",
       "PostgreSQL",
     ],
-    href: "YOUR_GITHUB_URL",
+    href: "https://github.com/Priyaanshuuu/Nexus.git",
+    website: "https://nexus-1hn4.vercel.app/",
+    cover: "/assets/projects/Nexus.png",
     featured: true,
     gradient:
       "from-blue-500/25 via-indigo-500/15 to-violet-500/25",
@@ -50,7 +52,9 @@ export const projects: Project[] = [
       "PostgreSQL",
       "MongoDB",
     ],
-    href: "YOUR_GITHUB_URL",
+    href: "https://github.com/Priyaanshuuu/Knowt.git",
+    website: "https://knowt-1.onrender.com/",
+    cover: "/assets/projects/knowt.png",
     featured: true,
     gradient:
       "from-emerald-500/25 via-green-500/15 to-teal-500/25",
