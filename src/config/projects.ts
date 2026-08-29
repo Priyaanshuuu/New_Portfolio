@@ -95,7 +95,7 @@ export const projects: Project[] = [
       "Prisma",
       "WhatsApp",
     ],
-    href: "YOUR_GITHUB_URL",
+    href: "https://github.com/Priyaanshuuu/ElevateBox.git",
     featured: true,
     gradient:
       "from-violet-500/25 via-purple-500/15 to-fuchsia-500/25",
@@ -115,7 +115,7 @@ export const projects: Project[] = [
       "SQLite",
       "REST APIs",
     ],
-    href: "YOUR_GITHUB_URL",
+    href: "https://github.com/Priyaanshuuu/MCP.git",
     featured: true,
     gradient:
       "from-cyan-500/25 via-sky-500/15 to-blue-500/25",
