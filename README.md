@@ -1,10 +1,10 @@
-# Priyanshu Urmaliya — Portfolio
+# Priyanshu Sinha — Portfolio
 
-Personal portfolio for an AI engineer and full-stack developer. Built with Next.js 15, TypeScript, Tailwind CSS v4, and MDX — clean layout, fast pages, and content you can edit without touching UI code.
+Personal portfolio of Priyanshu Sinha — an AI engineer and full-stack developer building thoughtful products, intelligent experiences, and performant web apps.
 
 ![Portfolio preview](./public/assets/readme-preview.png)
 
-**Live:** [priyanshuurmaliya.dev](https://priyanshuurmaliya.dev) · **GitHub:** [@GitHpriyanshu23](https://github.com/GitHpriyanshu23)
+**GitHub:** [@Priyaanshuuu](https://github.com/Priyaanshuuu)
 
 ---
 
@@ -42,8 +42,8 @@ Personal portfolio for an AI engineer and full-stack developer. Built with Next.
 **Requirements:** Node.js 18+
 
 ```bash
-git clone https://github.com/GitHpriyanshu23/My_portfolio.git
-cd My_portfolio
+git clone https://github.com/Priyaanshuuu/New_Portfolio-main.git
+cd New_Portfolio-main
 npm install
 npm run dev
 ```
@@ -64,7 +64,7 @@ Open [http://localhost:3000](http://localhost:3000).
 ## Project Structure
 
 ```
-My_portfolio/
+New_Portfolio-main/
 ├── src/
 │   ├── app/              # Routes (each folder = a URL)
 │   ├── components/       # Reusable UI + landing sections
