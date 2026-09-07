@@ -109,6 +109,7 @@ export const projects: Project[] = [
       "A production-grade voice-first job search automation platform with resume tailoring.",
     tech: ["LiveKit", "Solari APIs", "AI", "Resume Tailoring"],
     href: "https://github.com/Priyaanshuuu/Solari_Job_assistant",
+    cover: "/assets/projects/Solari.png",
     featured: true,
     gradient:
       "from-amber-500/25 via-orange-500/15 to-yellow-500/25",
