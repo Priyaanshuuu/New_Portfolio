@@ -102,6 +102,19 @@ export const projects: Project[] = [
   },
 
   {
+    slug: "job-copilot-solari",
+    title: "Job Copilot Solari",
+    date: "2026",
+    description:
+      "A production-grade voice-first job search automation platform with resume tailoring.",
+    tech: ["LiveKit", "Solari APIs", "AI", "Resume Tailoring"],
+    href: "https://github.com/Priyaanshuuu/Solari_Job_assistant",
+    featured: true,
+    gradient:
+      "from-amber-500/25 via-orange-500/15 to-yellow-500/25",
+  },
+
+  {
     slug: "ecommerce-mcp-server",
     title: "E-commerce MCP Server",
     date: "2026",
