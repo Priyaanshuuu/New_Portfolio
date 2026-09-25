@@ -6,7 +6,7 @@ import { createPageMetadata, pageTitle } from "@/lib/metadata";
 export const metadata = createPageMetadata({
   title: pageTitle("Favourites"),
   description:
-    "Movies and series Priyanshu Urmaliya has enjoyed and connected with.",
+    "Movies and series Priyanshu Sinha has enjoyed and connected with.",
   path: "/favourites",
 });
 

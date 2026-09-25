@@ -13,7 +13,7 @@ import { createPageMetadata, pageTitle } from "@/lib/metadata";
 export const metadata = createPageMetadata({
   title: pageTitle("Home"),
   description:
-    "Portfolio of Priyanshu Urmaliya featuring AI systems, full-stack projects, writing, and experience.",
+    "Portfolio of Priyanshu Sinha featuring AI systems, full-stack projects, writing, and experience.",
   path: "/",
 });
 

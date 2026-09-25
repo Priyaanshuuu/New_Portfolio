@@ -47,7 +47,7 @@ export default function ResumePage() {
         <div className="overflow-hidden rounded-2xl border border-border bg-card shadow-sm">
           <iframe
             src={resumeConfig.embedUrl}
-            title="Priyanshu Urmaliya resume"
+            title="Priyanshu Sinha resume"
             className="aspect-[3/4] w-full min-h-[70vh] bg-muted sm:aspect-auto sm:min-h-[80vh]"
             allow="autoplay"
           />

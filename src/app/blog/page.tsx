@@ -8,7 +8,7 @@ import { createPageMetadata, pageTitle } from "@/lib/metadata";
 export const metadata = createPageMetadata({
   title: pageTitle("Blog"),
   description:
-    "Notes on building, grief, growth, and lessons from the journey by Priyanshu Urmaliya.",
+    "Notes on building, grief, growth, and lessons from the journey by Priyanshu Sinha.",
   path: "/blog",
 });
 

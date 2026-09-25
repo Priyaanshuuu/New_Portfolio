@@ -6,8 +6,8 @@ export const siteConfig = {
   url: "https://www.priyanshusinha.tech",
   githubUsername: "priyaanshuuu",
   twitterHandle: "@imdevPU23",
-  ogImage: "/assets/og-image.jpg",
-  ogImageWidth: 1024,
-  ogImageHeight: 668,
+  ogImage: "/opengraph-image",
+  ogImageWidth: 1200,
+  ogImageHeight: 630,
   copyright: "All rights reserved.",
 };

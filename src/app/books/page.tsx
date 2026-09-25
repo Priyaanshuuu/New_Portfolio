@@ -6,7 +6,7 @@ import { createPageMetadata, pageTitle } from "@/lib/metadata";
 export const metadata = createPageMetadata({
   title: pageTitle("Books"),
   description:
-    "A collection of books that made Priyanshu Urmaliya pause, think, and see things differently.",
+    "A collection of books that made Priyanshu Sinha pause, think, and see things differently.",
   path: "/books",
 });
 
