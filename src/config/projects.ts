@@ -14,6 +14,19 @@ export type Project = {
 
 export const projects: Project[] = [
   {
+    slug: "accessiscan",
+    title: "AccessiScan",
+    date: "2026",
+    description:
+      "Scans deployed websites and explains accessibility, performance, SEO, and best-practice issues in plain language. Built with Next.js, a job queue, and a separate browser worker.",
+    tech: ["Next.js", "Job Queue", "Browser Worker"],
+    href: "https://github.com/Priyaanshuuu/ACCESSISCAN.git",
+    website: "https://accessiscan-production.up.railway.app/",
+    cover: "/assets/projects/Accessesian.png",
+    featured: true,
+    gradient: "from-lime-500/25 via-emerald-500/15 to-green-500/25",
+  },
+  {
     slug: "Nexus",
     title: "Nexus",
     date: "2026",
